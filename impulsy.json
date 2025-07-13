@@ -6,13 +6,13 @@
             "day": "01",
             "slider": [{
                 "link": "https:\/\/wa.me\/573028408594",
-                "image": "https:\/\/funnelleads.agency\/assets\/images\/extension\/Funnelleads logo.jpg"
+                "image": "chrome-extension://hegalnahbmbhbhmlaefjaoimoihaegdl/images/icon-48.png"
             }],
             "title": "Impulsy CRM PRO",
             "code": "By Impulsy"
         },
         "expired": {
-            "image": "https:\/\/funnelleads.agency\/assets\/images\/extension\/Funnelleads logo.jpg",
+            "image": "chrome-extension://hegalnahbmbhbhmlaefjaoimoihaegdl/images/icon-48.png",
             "title": "Renueva tu licencia expirada hoy",
             "description": "\u00bfTu licencia ha expirado? No te preocupes, renueva f\u00e1cilmente y vuelve a disfrutar de todos los beneficios. Mant\u00e9n tu acceso activo y evita interrupciones en tu servicio. \u00a1Haz clic ahora para renovar y continuar sin problemas!",
             "button": {
@@ -21,11 +21,11 @@
             }
         },
         "default_image": {
-            "default_image_user": "https:\/\/funnelleads.agency\/assets\/images\/extension\/Funnelleads logo.jpg",
-            "default_image_group": "https:\/\/funnelleads.agency\/assets\/images\/extension\/Funnelleads logo.jpg"
+            "default_image_user": "chrome-extension://hegalnahbmbhbhmlaefjaoimoihaegdl/images/icon-48.png",
+            "default_image_group": "chrome-extension://hegalnahbmbhbhmlaefjaoimoihaegdl/images/icon-48.png"
         },
         "system_icons": {
-            "icon_search": "https:\/\/funnelleads.agency\/assets\/images\/extension\/Funnelleads logo.jpg"
+            "icon_search": "chrome-extension://hegalnahbmbhbhmlaefjaoimoihaegdl/images/icon-48.png"
         },
         "global": {
             "color_ligth_primary": "#04d79e",
@@ -33,7 +33,7 @@
         },
         "logo": {
             "data": {
-                "logo_image": "https:\/\/funnelleads.agency\/assets\/images\/extension\/Funnelleads logo.jpg",
+                "logo_image": "chrome-extension://hegalnahbmbhbhmlaefjaoimoihaegdl/images/icon-48.png",
                 "logo_link": {
                     "title": "CRM 5",
                     "url": "https:\/\/wa.me\/573028408594",
